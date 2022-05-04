@@ -15,5 +15,13 @@
     "mongoose": "^6.3.2",
     "swagger-autogen": "^2.21.1",
     "swagger-ui-express": "^4.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloh1297/API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pauloh1297/API/issues"
+  },
+  "homepage": "https://github.com/pauloh1297/API#readme"
 }
